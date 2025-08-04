@@ -1,11 +1,13 @@
-import PropselImg from '/public/images/propselimg.png';
 import { useState } from 'react';
+
+import PropSel1 from '/public/images/propselimg.png';
+import PropSel2 from '/public/images/propsel2.png';
+import PropSel3 from '/public/images/propsel3.png';
+import PropSel4 from '/public/images/propsel4.png';
+
 const Project = () => {
     const images = [
-        '/public/images/propsel3.png',
-        '/public/images/propselimg.png',
-        '/public/images/propsel2.png',
-        '/public/images/propsel4.png',
+    [PropSel1],[PropSel2],[PropSel3],[PropSel4],
     ]
     const [imageIndex, setImageIndex] = useState(2);
     const rightarrow = () => {
@@ -64,8 +66,7 @@ const Project = () => {
                   </button>
               </div>
             </div>
-            </div>
-           
+            </div>       
         </div>
     );
 }
