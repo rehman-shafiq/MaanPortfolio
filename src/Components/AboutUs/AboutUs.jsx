@@ -18,7 +18,7 @@ const AboutUs = () => {
                             ARS-React Developer
                         </p>
                         <p className="text-gray-900">
-                            I'm a passionate Front-End Developer from Rawalpindi, Pakistan, with hands-on experience in building responsive and user-friendly web interfaces. I specialize in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React (intermediate level, since 2023). I'm currently pursuing a Bachelor's degree in Computer Science, expected to graduate in 2025.
+                            I'm a passionate Front-End Developer from Rawalpindi, Pakistan, with hands-on experience in building responsive and user-friendly web interfaces. I specialize in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React (intermediate level, since 2023). I'm currently pursuing a Bachelor's degree in Computer Science, expected to graduate in 2028.
                             <br></br>
                             In 2025, I completed a Front-End Development internship at Syber Koza, located in NASTP Rawalpindi, where I gained practical experience working on real-world projects and collaborating with a professional development team.
                             <br></br>
