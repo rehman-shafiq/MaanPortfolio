@@ -42,6 +42,29 @@
 }
  */
  body{
-  background-color: #f4f4f4ff;
+      /* background: linear-gradient( red , blue ); */
+      /*  background: linear-gradient( #002366 20%, #C08081 80%); */
+       /* background: radial-gradient(circle, red, yellow); */
+       background: linear-gradient(to right  ,#F0EDCC ,#02343F );
+ /*  background-color:linear-gradient ( #353839, #FFD700;) */
+  /* animation: backgroundAnimation 10s infinite alternate;  */
  }
+/*  @keyframes backgroundAnimation {
+  25% {
+    background: linear-gradient(#353839, #FFD700);
+  }
+  35% {
+    background: linear-gradient(#FFD700, #353839);
+  }
+  50% {
+    background: linear-gradient(#F0EDCC, #02343F);
+  }
+  75% {
+    background: linear-gradient(#02343F, #F0EDCC);
+
+}
+  100% {
+    background: linear-gradient(#F0EDCC, #02343F);
+  }
+} */
  
